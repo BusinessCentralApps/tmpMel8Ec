@@ -1,10 +1,11 @@
 {
+  "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go/95f863f555d65db71653b7e379eafa3104aafa79/Actions/.Modules/settings.schema.json",
   "MicrosoftTelemetryConnectionString": "",
   "useCompilerFolder": false,
-  "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go/95f863f555d65db71653b7e379eafa3104aafa79/Actions/.Modules/settings.schema.json",
   "templateUrl": "https://github.com/businesscentralapps/tmp5KSkvc-PTE@main",
   "shell": "pwsh",
   "runs-on": "ubuntu-latest",
   "doNotPublishApps": false,
-  "type": "PTE"
+  "type": "PTE",
+  "templateSha": "668af2512ba256d84c51ff3f3f83520132cfbc5b"
 }
